@@ -1,0 +1,14 @@
+layout_spectrum: 0.693017678335309
+typography_spectrum: 0.09607971226796508
+color:
+  brandStrength: 0.32078734738752246
+  lightness: 0.7894106511957943
+  saturation: 0.9376818591263145
+  rhythmicContrast: 0.36845125746913254
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: The Test
