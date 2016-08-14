@@ -6,9 +6,9 @@ color:
   saturation: 0.9376818591263145
   rhythmicContrast: 0.36845125746913254
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
 name: The Test
